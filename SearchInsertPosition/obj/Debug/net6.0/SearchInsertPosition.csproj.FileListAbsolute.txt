@@ -1,0 +1,15 @@
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.exe
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.deps.json
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.runtimeconfig.json
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.dll
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.pdb
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.csproj.AssemblyReference.cache
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.AssemblyInfoInputs.cache
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.AssemblyInfo.cs
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.csproj.CoreCompileInputs.cache
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.dll
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\refint\SearchInsertPosition.dll
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.pdb
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.genruntimeconfig.cache
+C:\Users\eppy_\source\repos\LeetCode\SearchInsertPosition\obj\Debug\net6.0\ref\SearchInsertPosition.dll
