@@ -1,0 +1,15 @@
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\bin\Debug\net6.0\MergeSortedArray.exe
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\bin\Debug\net6.0\MergeSortedArray.deps.json
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\bin\Debug\net6.0\MergeSortedArray.runtimeconfig.json
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\bin\Debug\net6.0\MergeSortedArray.dll
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\bin\Debug\net6.0\MergeSortedArray.pdb
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\MergeSortedArray.csproj.AssemblyReference.cache
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\MergeSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\MergeSortedArray.AssemblyInfoInputs.cache
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\MergeSortedArray.AssemblyInfo.cs
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\MergeSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\MergeSortedArray.dll
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\refint\MergeSortedArray.dll
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\MergeSortedArray.pdb
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\MergeSortedArray.genruntimeconfig.cache
+C:\Users\eppy_\source\repos\LeetCode\MergeSortedArray\obj\Debug\net6.0\ref\MergeSortedArray.dll

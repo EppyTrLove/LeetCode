@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "LeetCode\TwoSum.csproj", "{ED27E61B-1D9F-4050-AFE9-E3680D52A82B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonPrefix", "Task2\CommonPrefix.csproj", "{11E4F306-6632-4C7F-A7CF-78BC9C204301}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonPrefix!", "Task2\CommonPrefix!.csproj", "{11E4F306-6632-4C7F-A7CF-78BC9C204301}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates", "Task3\RemoveDuplicates.csproj", "{40101C16-16F4-4B2C-A6AA-52DEB767725E}"
 EndProject
@@ -13,11 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromNumber", "Task4\Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "Task5\RemoveElement.csproj", "{6266CF48-FB40-4D7A-8A76-420894879647}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{5596CC7A-A565-4724-B944-8C9102ECA029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{5596CC7A-A565-4724-B944-8C9102ECA029}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthLastWord", "LengthLastWord\LengthLastWord.csproj", "{495EF210-ABCF-4AFE-9940-43A4F2E71120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthLastWord", "LengthLastWord\LengthLastWord.csproj", "{495EF210-ABCF-4AFE-9940-43A4F2E71120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{E1CE338B-F356-4F4C-9ED7-B9354B9E319D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne!", "PlusOne\PlusOne!.csproj", "{E1CE338B-F356-4F4C-9ED7-B9354B9E319D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingStairs!", "ClimbingStairs\ClimbingStairs!.csproj", "{A92682F8-C138-458C-AB28-BF7C500B5E51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{2A1CD285-EA8F-41F3-83D5-F3A17DF45D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{4420B24F-2C00-450C-A305-202C31327D6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{E1CE338B-F356-4F4C-9ED7-B9354B9E319D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1CE338B-F356-4F4C-9ED7-B9354B9E319D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1CE338B-F356-4F4C-9ED7-B9354B9E319D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92682F8-C138-458C-AB28-BF7C500B5E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92682F8-C138-458C-AB28-BF7C500B5E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92682F8-C138-458C-AB28-BF7C500B5E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92682F8-C138-458C-AB28-BF7C500B5E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1CD285-EA8F-41F3-83D5-F3A17DF45D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1CD285-EA8F-41F3-83D5-F3A17DF45D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1CD285-EA8F-41F3-83D5-F3A17DF45D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1CD285-EA8F-41F3-83D5-F3A17DF45D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4420B24F-2C00-450C-A305-202C31327D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4420B24F-2C00-450C-A305-202C31327D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4420B24F-2C00-450C-A305-202C31327D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4420B24F-2C00-450C-A305-202C31327D6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

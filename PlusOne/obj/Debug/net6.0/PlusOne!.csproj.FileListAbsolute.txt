@@ -1,0 +1,5 @@
+C:\Users\eppy_\source\repos\LeetCode\PlusOne\obj\Debug\net6.0\PlusOne!.csproj.AssemblyReference.cache
+C:\Users\eppy_\source\repos\LeetCode\PlusOne\obj\Debug\net6.0\PlusOne!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eppy_\source\repos\LeetCode\PlusOne\obj\Debug\net6.0\PlusOne!.AssemblyInfoInputs.cache
+C:\Users\eppy_\source\repos\LeetCode\PlusOne\obj\Debug\net6.0\PlusOne!.AssemblyInfo.cs
+C:\Users\eppy_\source\repos\LeetCode\PlusOne\obj\Debug\net6.0\PlusOne!.csproj.CoreCompileInputs.cache

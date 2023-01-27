@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eppy_\\source\\repos\\LeetCode\\Task2\\CommonPrefix.csproj",
-      "projectName": "CommonPrefix",
-      "projectPath": "C:\\Users\\eppy_\\source\\repos\\LeetCode\\Task2\\CommonPrefix.csproj",
+      "projectUniqueName": "C:\\Users\\eppy_\\source\\repos\\LeetCode\\Task2\\CommonPrefix!.csproj",
+      "projectName": "CommonPrefix!",
+      "projectPath": "C:\\Users\\eppy_\\source\\repos\\LeetCode\\Task2\\CommonPrefix!.csproj",
       "packagesPath": "C:\\Users\\eppy_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eppy_\\source\\repos\\LeetCode\\Task2\\obj\\",
       "projectStyle": "PackageReference",
