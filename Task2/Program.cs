@@ -6,52 +6,43 @@ using System.Security.Cryptography.X509Certificates;
 class Progrqam
 {
     public static void Main(string[] args)
-    {
-        static string LongestCommonPrefix(string[] strs)
+    { 
+
+         static string LongestCommonPrefix(string[] strs)
         {
-            //Напишите функцию для поиска самой длинной строки общего префикса среди массива строк.
-
-            //Если общего префикса нет, верните пустую строку "".
-
-            //Пример 1:
-            //Input: strs = ["flower", "flow", "flight"]
-            //Output: "fl"
-
-            //Пример 2:
-            //Input: strs = ["dog", "racecar", "car"]
-            //Output: ""
-            //Explanation: There is no common prefix among the input strings.
-            string s = "";
-            //foreach (var str in strs) {
-
-            for (var i = 0; i < strs.Length - 1; i++)
+            string longest = "";
+            int index = 0;
+            if (strs == null || strs.Length == 0)
             {
-                //for(var j = 0; j < strs.Length - 1; j++)
-                if (strs[i].StartsWith(strs[i + 1][i]))
-                {
-
-                    s += strs[i][i];
-
-                }
+                return longest;
             }
-            return s;
+            // go through each letter
+            for (int i = 0; i < strs[0].Length; i++)
+            {
+                // go through each element and check for letter
+                for (int j = 1; j < strs.Length; j++)
+                {
+                    // handles out of bounds case and checks if character is same in all elements
+                    if (index >= strs[j].Length || strs[0][index] != strs[j][index])
+                    {
+                        return longest;
+                    }
+                }
+                longest += strs[0][index];
+                index++;
+            }
+            return longest;
         }
-
-
-
-        var s = new[] {"flower","flow","flight" };
-        LongestCommonPrefix(s);
-        Console.ReadKey();
-        }
-        }
-
-
-        
-    
+    }
+}
 
 
 
 
-        
+
+
+
+
+
 
 
