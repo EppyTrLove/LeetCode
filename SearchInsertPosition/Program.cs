@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using System.Text;
-class Programm
+class Program
 {
     public static void Main(string[] args)
     {

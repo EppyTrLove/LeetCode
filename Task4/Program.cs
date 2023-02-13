@@ -3,7 +3,7 @@ using System;
 using System.Reflection.Metadata.Ecma335;
 using System.Security.Cryptography.X509Certificates;
 
-class Progrqam
+class Program
 {
     public static void Main(string[] args)
     {

@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Numerics;
 using System.Text;
 
-class Progrqam
+class Program
 {
     public static void Main(string[] args)
     {

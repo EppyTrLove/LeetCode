@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using System.Numerics;
-class Progrqam
+class Program
 {
     public static void Main(string[] args)
     { }
